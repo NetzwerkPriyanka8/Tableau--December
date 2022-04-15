@@ -18,15 +18,6 @@ By clicking on open you can access earlier version of workbook that you have cre
 Important blogs or also some important work done by all contributor in  tableau community
 
 
-Tableau Architecture:-
-
-Basically  Tableau architecture is basically divided into 2 parts.
-1. Create 
-2. share  
-Create help us to create the visualization and share component help in sharing whatever we have created
-
-
-
 Process flow of BI Project - 
 1. Business understanding 
 2. Data understand
@@ -38,9 +29,11 @@ Process flow of BI Project -
 
 Assignment:
 What is tableau?
+What is data visualization?
 Explain several option of the start page of tableau desktop.
-Explain Tableau architecture.
 Explain all the steps of process flow of BI Project.
+
+
 
 
 
