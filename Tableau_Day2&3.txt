@@ -13,7 +13,12 @@ Automatically assigns data types (such as date, number, string, etc.) and roles 
 
 Assignment:
 1. Find the sales for every year and find the highest sales and show the view in bar graph.
-2. Find the category wise sales for every year.
-3. Display subcategory and find some insights from the view about max and min sales under every category.
-4. In your bar graph present subcategory under each bar of category using colour card.
+2. Add label to your view.
+3. Find the category wise sales for every year.
+4. Which category has highest sales in the year 2020 & 2021.
+5. Based on the analysis of the year 2020 & 2021. give some suggestions to improve Sales in the year 2022.
+6. Display subcategory and find some insights from the view about max and min sales under every category.
+7. Check the Tooltip.
+8. In your bar graph, present subcategory under each bar of category using colour card
+
 Note : - Use Superstore data 
