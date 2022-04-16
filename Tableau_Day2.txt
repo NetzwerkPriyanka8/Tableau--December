@@ -1,0 +1,19 @@
+
+
+
+After you connect to your data, Tableau does the following:
+
+Opens a new worksheet. This is a blank slate where you can create your first view.
+Displays the data source you are connected to. If you are using multiple data sources, you can see them all listed here.
+Adds columns from your data source to the Data pane on the left side. Columns are added as fields.
+Automatically assigns data types (such as date, number, string, etc.) and roles (dimension or measure) to your data.
+
+
+
+
+Assignment:
+1. Find the sales for every year and find the highest sales and show the view in bar graph.
+2. Find the category wise sales for every year.
+3. Display subcategory and find some insights from the view about max and min sales under every category.
+4. In your bar graph present subcategory under each bar of category using colour card.
+Note : - Use Superstore data 
