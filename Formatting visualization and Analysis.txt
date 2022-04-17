@@ -1,0 +1,33 @@
+1. Tableau has different data type..
+
+For date & type tableau uses clock icon..
+For text data type tableau uses ABC 
+Date value –it use calendar icon..
+For date & time value – it use calendar with clock icon.
+For Numerical value , it uses # icon.
+For Boolean it use the icon –T/F(True/false)
+For geographical value it uses icon of globe
+
+
+2. How to save your workbook
+Save your work by selecting File > Save As. Give your workbook a name, such as Regional Sales and Profits.
+When you install Tableau, it automatically creates a folder directory for you under Documents > My Documents > My Tableau Repository. 
+
+
+Assignments:
+
+Scenarios:
+
+1.Find the profit and sales for each subcategory of every type of product.
+2. Which subcategory has highest profit in the year 2019.
+3. In case 1, change the color of the view from the Marks card.
+4. In the view, in the Sub-Category filter card, clear all of the check boxes except Bookcases, Machines, and Tables to have closer look on each value.
+5. Find out the key insights about in which year bookcases and machines were profitable and unprofitable.
+6. Show the sales region wise for every subcategory and category and every year.
+7. Duplicate your worksheet and check sales region vise for Machine type subcategory.
+8. In which region you are reporting a higher negative profit overall than in your other regions. 
+9. Show your view for  Sales in the South for all subcategory.
+10. Which subcategory has highest overall negative sales in the south region.
+11. Take some decisions to improve sales in the south.
+12. Rename your worksheet.
+13. Save your workbook.
