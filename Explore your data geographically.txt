@@ -1,0 +1,21 @@
+Explore your data geographically
+
+
+Tableau has already assigned the proper geographic roles to the Country, State, City, and Postal Code fields. 
+That's because it recognized that each of those fields contained geographic data.
+
+Tableau provides us option to build a map view. 
+
+
+Scenarios:
+
+1. Create a Map view to represent all the states with country.
+2. Check your map for south region. 
+4. Check the sales for south region.
+5. Find the state that has highest sales.
+6. Represent your sales in USD. 
+7. Edit color for you map.
+8. Show profit for all the states in your map in south region.
+9.  Find out the name of some states having negative profit.
+10.  Note down the name of the states having lowest profit and highest profit.
+
