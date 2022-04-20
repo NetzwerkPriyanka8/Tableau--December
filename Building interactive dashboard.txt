@@ -12,7 +12,8 @@ Build dashboard to show some insights.
 Arrange Your Dashboard.
 Remove the subcategory filter option to vacate the space.
 Remove the year of order filter option to vacate the space.
-Select Profit color legend and drag it below to Sales in the South. 
+Select Profit color legend and drag it to Sales in the South. 
 Make your dashboard interactive.
+Make the order date filter applicable for sales in the south visual as well.
 One by one click all the states in the profit map having negative profit and check both profit and sales for each state.
 Rename your dashboard and save as Regional Sales and Profit.
