@@ -1,0 +1,18 @@
+Create dashboards to display multiple worksheets at once, and make them interact with one another.
+
+Using a Dashboard show the negative profits in Tennessee, North Carolina, and Florida and explain 
+some of the reasons why profits are low.
+
+
+Scenarios:
+
+Assignments:
+
+Build dashboard to show some insights.
+Arrange Your Dashboard.
+Remove the subcategory filter option to vacate the space.
+Remove the year of order filter option to vacate the space.
+Select Profit color legend and drag it below to Sales in the South. 
+Make your dashboard interactive.
+One by one click all the states in the profit map having negative profit and check both profit and sales for each state.
+Rename your dashboard and save as Regional Sales and Profit.
