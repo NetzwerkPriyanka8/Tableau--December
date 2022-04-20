@@ -1,0 +1,10 @@
+
+Scenarios:
+
+1. Represent the country and state  wise profit in horizontal bar format.
+2. Identify the state having negative profit.
+3. Show the bars for state having negative profit.
+4. click the plus icon on the State field to drill-down to the City level of detail.
+5. Apply colour to your view.
+
+
