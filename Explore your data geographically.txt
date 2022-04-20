@@ -8,7 +8,6 @@ Tableau provides us option to build a map view. 
 
 
 Scenarios:
-
 1. Create a Map view to represent all the states with country.
 2. Check your map for south region. 
 4. Check the sales for south region.
